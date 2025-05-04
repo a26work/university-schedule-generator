@@ -1,0 +1,56 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Odoo-specific
+*.log
+*.pid
+*.swp
+*.un~
+*.xml~
+*.csv~
+*.json~
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Test and dump data
+/test_data/
+*.json
+*.csv
+*.xlsx
+*.xls
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Python environment
+.env
+.venv
+env/
+venv/
+ENV/
+Pipfile.lock
+poetry.lock
+*.egg-info/
+dist/
+build/
+
+# Node/JS-related (if OWL or JS frontend used)
+node_modules/
+npm-debug.log
+yarn.lock
+
+# Coverage, testing
+.coverage
+htmlcov/
+coverage.xml
+
+# Misc
+*.bak
+*.orig
