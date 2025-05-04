@@ -1,0 +1,121 @@
+{
+  "halls": [
+    "Hall A",
+    "Hall B"
+  ],
+  "school_days": [
+    "Monday",
+    "Wednesday",
+    "Sunday"
+  ],
+  "departments": [
+    "Computer Science",
+    "Mathematics"
+  ],
+  "professors": [
+    "Prof Alice",
+    "Prof Bob"
+  ],
+  "courses": [
+    "Algorithms",
+    "Calculus",
+    "Data Structures",
+    "Linear Algebra"
+  ],
+  "level_courses": {
+    "Level1": [
+      "Algorithms",
+      "Calculus"
+    ],
+    "Level2": [
+      "Data Structures",
+      "Linear Algebra"
+    ]
+  },
+  "department_courses": {
+    "Computer Science": [
+      "Algorithms",
+      "Data Structures"
+    ],
+    "Mathematics": [
+      "Calculus",
+      "Linear Algebra"
+    ]
+  },
+  "professor_specialties": {
+    "Prof Alice": [
+      "Computer Science"
+    ],
+    "Prof Bob": [
+      "Mathematics"
+    ]
+  },
+  "professor_preferred_courses": {
+    "Prof Alice": [
+      "Algorithms"
+    ],
+    "Prof Bob": [
+      "Calculus"
+    ]
+  },
+  "professor_preferred_times": {
+    "Prof Alice": [
+      {
+        "day": "Monday",
+        "start_time": "08:00",
+        "end_time": "12:00"
+      },
+      {
+        "day": "Wednesday",
+        "start_time": "10:00",
+        "end_time": "13:00"
+      }
+    ],
+    "Prof Bob": [
+      {
+        "day": "Sunday",
+        "start_time": "09:00",
+        "end_time": "12:00"
+      }
+    ]
+  },
+  "course_preferred_times": {
+    "Algorithms": "early",
+    "Calculus": "middle",
+    "Data Structures": "late",
+    "Linear Algebra": "middle"
+  },
+  "restricted_times": [
+    {
+      "day": "Sunday",
+      "start_time": "12:00",
+      "end_time": "14:00"
+    }
+  ],
+  "days_with_hours": {
+    "Monday": {
+      "start": "08:00",
+      "end": "17:00"
+    },
+    "Wednesday": {
+      "start": "08:00",
+      "end": "17:00"
+    },
+    "Sunday": {
+      "start": "08:00",
+      "end": "17:00"
+    }
+  },
+  "course_lecture_durations": {
+    "Algorithms": 60,
+    "Calculus": 90,
+    "Data Structures": 60,
+    "Linear Algebra": 90
+  },
+  "course_sections_count": {
+    "Algorithms": 2,
+    "Calculus": 1,
+    "Data Structures": 2,
+    "Linear Algebra": 1
+  }
+}

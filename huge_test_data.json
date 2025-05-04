@@ -1,0 +1,1796 @@
+{
+  "halls": [
+    "Hall1",
+    "Hall2",
+    "Hall3",
+    "Hall4",
+    "Hall5",
+    "Hall6",
+    "Hall7",
+    "Hall8",
+    "Hall9",
+    "Hall10",
+    "Hall11",
+    "Hall12",
+    "Hall13",
+    "Hall14",
+    "Hall15",
+    "Hall16",
+    "Hall17",
+    "Hall18",
+    "Hall19",
+    "Hall20"
+  ],
+  "school_days": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Sunday"
+  ],
+  "departments": [
+    "Department1",
+    "Department2",
+    "Department3",
+    "Department4",
+    "Department5",
+    "Department6",
+    "Department7",
+    "Department8",
+    "Department9",
+    "Department10"
+  ],
+  "professors": [
+    "Prof1",
+    "Prof2",
+    "Prof3",
+    "Prof4",
+    "Prof5",
+    "Prof6",
+    "Prof7",
+    "Prof8",
+    "Prof9",
+    "Prof10",
+    "Prof11",
+    "Prof12",
+    "Prof13",
+    "Prof14",
+    "Prof15",
+    "Prof16",
+    "Prof17",
+    "Prof18",
+    "Prof19",
+    "Prof20",
+    "Prof21",
+    "Prof22",
+    "Prof23",
+    "Prof24",
+    "Prof25",
+    "Prof26",
+    "Prof27",
+    "Prof28",
+    "Prof29",
+    "Prof30"
+  ],
+  "courses": [
+    "Course1",
+    "Course2",
+    "Course3",
+    "Course4",
+    "Course5",
+    "Course6",
+    "Course7",
+    "Course8",
+    "Course9",
+    "Course10",
+    "Course11",
+    "Course12",
+    "Course13",
+    "Course14",
+    "Course15",
+    "Course16",
+    "Course17",
+    "Course18",
+    "Course19",
+    "Course20",
+    "Course21",
+    "Course22",
+    "Course23",
+    "Course24",
+    "Course25",
+    "Course26",
+    "Course27",
+    "Course28",
+    "Course29",
+    "Course30",
+    "Course31",
+    "Course32",
+    "Course33",
+    "Course34",
+    "Course35",
+    "Course36",
+    "Course37",
+    "Course38",
+    "Course39",
+    "Course40",
+    "Course41",
+    "Course42",
+    "Course43",
+    "Course44",
+    "Course45",
+    "Course46",
+    "Course47",
+    "Course48",
+    "Course49",
+    "Course50",
+    "Course51",
+    "Course52",
+    "Course53",
+    "Course54",
+    "Course55",
+    "Course56",
+    "Course57",
+    "Course58",
+    "Course59",
+    "Course60",
+    "Course61",
+    "Course62",
+    "Course63",
+    "Course64",
+    "Course65",
+    "Course66",
+    "Course67",
+    "Course68",
+    "Course69",
+    "Course70",
+    "Course71",
+    "Course72",
+    "Course73",
+    "Course74",
+    "Course75",
+    "Course76",
+    "Course77",
+    "Course78",
+    "Course79",
+    "Course80",
+    "Course81",
+    "Course82",
+    "Course83",
+    "Course84",
+    "Course85",
+    "Course86",
+    "Course87",
+    "Course88",
+    "Course89",
+    "Course90",
+    "Course91",
+    "Course92",
+    "Course93",
+    "Course94",
+    "Course95",
+    "Course96",
+    "Course97",
+    "Course98",
+    "Course99",
+    "Course100"
+  ],
+  "level_courses": {
+    "Level1": [
+      "Course41",
+      "Course6",
+      "Course66",
+      "Course4",
+      "Course83",
+      "Course25",
+      "Course99",
+      "Course11",
+      "Course21",
+      "Course17",
+      "Course35",
+      "Course27",
+      "Course76",
+      "Course75",
+      "Course97",
+      "Course12",
+      "Course70",
+      "Course63",
+      "Course3",
+      "Course54",
+      "Course28",
+      "Course79",
+      "Course87",
+      "Course24",
+      "Course91"
+    ],
+    "Level2": [
+      "Course99",
+      "Course64",
+      "Course6",
+      "Course16",
+      "Course29",
+      "Course11",
+      "Course40",
+      "Course61",
+      "Course85",
+      "Course91",
+      "Course54",
+      "Course52",
+      "Course73",
+      "Course5",
+      "Course28",
+      "Course62",
+      "Course72",
+      "Course12",
+      "Course100",
+      "Course15",
+      "Course9",
+      "Course32",
+      "Course7",
+      "Course80",
+      "Course79"
+    ],
+    "Level3": [
+      "Course85",
+      "Course11",
+      "Course96",
+      "Course60",
+      "Course26",
+      "Course18",
+      "Course71",
+      "Course94",
+      "Course51",
+      "Course81",
+      "Course97",
+      "Course55",
+      "Course41",
+      "Course66",
+      "Course68",
+      "Course10",
+      "Course100",
+      "Course21",
+      "Course75",
+      "Course88",
+      "Course36",
+      "Course82",
+      "Course23",
+      "Course87",
+      "Course50"
+    ],
+    "Level4": [
+      "Course83",
+      "Course1",
+      "Course48",
+      "Course49",
+      "Course90",
+      "Course98",
+      "Course15",
+      "Course71",
+      "Course59",
+      "Course63",
+      "Course52",
+      "Course95",
+      "Course24",
+      "Course27",
+      "Course77",
+      "Course31",
+      "Course62",
+      "Course72",
+      "Course4",
+      "Course58",
+      "Course84",
+      "Course76",
+      "Course96",
+      "Course14",
+      "Course35"
+    ]
+  },
+  "department_courses": {
+    "Department1": [
+      "Course46",
+      "Course96",
+      "Course80",
+      "Course62",
+      "Course59",
+      "Course21",
+      "Course66",
+      "Course95",
+      "Course79",
+      "Course5",
+      "Course45",
+      "Course86",
+      "Course19",
+      "Course91",
+      "Course2",
+      "Course47",
+      "Course42",
+      "Course16",
+      "Course69",
+      "Course14"
+    ],
+    "Department2": [
+      "Course39",
+      "Course67",
+      "Course82",
+      "Course15",
+      "Course12",
+      "Course79",
+      "Course56",
+      "Course59",
+      "Course37",
+      "Course41",
+      "Course46",
+      "Course54",
+      "Course16",
+      "Course27",
+      "Course36",
+      "Course34",
+      "Course57",
+      "Course28",
+      "Course98",
+      "Course26"
+    ],
+    "Department3": [
+      "Course40",
+      "Course9",
+      "Course52",
+      "Course55",
+      "Course28",
+      "Course91",
+      "Course34",
+      "Course14",
+      "Course41",
+      "Course65",
+      "Course78",
+      "Course63",
+      "Course68",
+      "Course5",
+      "Course36",
+      "Course69",
+      "Course32",
+      "Course33",
+      "Course66",
+      "Course87"
+    ],
+    "Department4": [
+      "Course17",
+      "Course30",
+      "Course49",
+      "Course92",
+      "Course72",
+      "Course15",
+      "Course57",
+      "Course35",
+      "Course48",
+      "Course51",
+      "Course71",
+      "Course61",
+      "Course8",
+      "Course54",
+      "Course76",
+      "Course93",
+      "Course10",
+      "Course46",
+      "Course13",
+      "Course39"
+    ],
+    "Department5": [
+      "Course36",
+      "Course80",
+      "Course70",
+      "Course98",
+      "Course56",
+      "Course64",
+      "Course77",
+      "Course18",
+      "Course27",
+      "Course39",
+      "Course66",
+      "Course5",
+      "Course60",
+      "Course28",
+      "Course13",
+      "Course83",
+      "Course11",
+      "Course94",
+      "Course71",
+      "Course37"
+    ],
+    "Department6": [
+      "Course52",
+      "Course7",
+      "Course25",
+      "Course33",
+      "Course27",
+      "Course29",
+      "Course84",
+      "Course21",
+      "Course45",
+      "Course3",
+      "Course32",
+      "Course20",
+      "Course89",
+      "Course17",
+      "Course49",
+      "Course43",
+      "Course51",
+      "Course41",
+      "Course64",
+      "Course42"
+    ],
+    "Department7": [
+      "Course61",
+      "Course51",
+      "Course78",
+      "Course60",
+      "Course30",
+      "Course77",
+      "Course56",
+      "Course71",
+      "Course67",
+      "Course46",
+      "Course29",
+      "Course19",
+      "Course44",
+      "Course8",
+      "Course74",
+      "Course79",
+      "Course68",
+      "Course1",
+      "Course47",
+      "Course10"
+    ],
+    "Department8": [
+      "Course4",
+      "Course86",
+      "Course54",
+      "Course22",
+      "Course40",
+      "Course20",
+      "Course48",
+      "Course32",
+      "Course13",
+      "Course43",
+      "Course53",
+      "Course90",
+      "Course44",
+      "Course79",
+      "Course99",
+      "Course100",
+      "Course21",
+      "Course24",
+      "Course45",
+      "Course94"
+    ],
+    "Department9": [
+      "Course17",
+      "Course83",
+      "Course19",
+      "Course12",
+      "Course41",
+      "Course50",
+      "Course10",
+      "Course99",
+      "Course65",
+      "Course53",
+      "Course76",
+      "Course45",
+      "Course80",
+      "Course87",
+      "Course35",
+      "Course96",
+      "Course39",
+      "Course40",
+      "Course70",
+      "Course43"
+    ],
+    "Department10": [
+      "Course69",
+      "Course95",
+      "Course47",
+      "Course16",
+      "Course34",
+      "Course50",
+      "Course88",
+      "Course84",
+      "Course44",
+      "Course4",
+      "Course99",
+      "Course20",
+      "Course6",
+      "Course89",
+      "Course67",
+      "Course87",
+      "Course40",
+      "Course7",
+      "Course30",
+      "Course41"
+    ]
+  },
+  "professor_specialties": {
+    "Prof1": [
+      "Department9",
+      "Department1"
+    ],
+    "Prof2": [
+      "Department8",
+      "Department5",
+      "Department6",
+      "Department1"
+    ],
+    "Prof3": [
+      "Department4"
+    ],
+    "Prof4": [
+      "Department2",
+      "Department1",
+      "Department5",
+      "Department9"
+    ],
+    "Prof5": [
+      "Department9"
+    ],
+    "Prof6": [
+      "Department1",
+      "Department6",
+      "Department10",
+      "Department9"
+    ],
+    "Prof7": [
+      "Department4",
+      "Department10",
+      "Department7",
+      "Department3"
+    ],
+    "Prof8": [
+      "Department1",
+      "Department3"
+    ],
+    "Prof9": [
+      "Department5",
+      "Department2"
+    ],
+    "Prof10": [
+      "Department4"
+    ],
+    "Prof11": [
+      "Department6",
+      "Department7",
+      "Department3",
+      "Department10"
+    ],
+    "Prof12": [
+      "Department9",
+      "Department8",
+      "Department10"
+    ],
+    "Prof13": [
+      "Department9",
+      "Department10",
+      "Department8"
+    ],
+    "Prof14": [
+      "Department8",
+      "Department4",
+      "Department6"
+    ],
+    "Prof15": [
+      "Department3"
+    ],
+    "Prof16": [
+      "Department9"
+    ],
+    "Prof17": [
+      "Department6",
+      "Department9",
+      "Department8",
+      "Department1"
+    ],
+    "Prof18": [
+      "Department9",
+      "Department4",
+      "Department3"
+    ],
+    "Prof19": [
+      "Department8",
+      "Department2"
+    ],
+    "Prof20": [
+      "Department9",
+      "Department5",
+      "Department7"
+    ],
+    "Prof21": [
+      "Department4"
+    ],
+    "Prof22": [
+      "Department3",
+      "Department10"
+    ],
+    "Prof23": [
+      "Department5",
+      "Department3",
+      "Department7",
+      "Department1"
+    ],
+    "Prof24": [
+      "Department9",
+      "Department2"
+    ],
+    "Prof25": [
+      "Department5",
+      "Department10",
+      "Department7",
+      "Department3"
+    ],
+    "Prof26": [
+      "Department1",
+      "Department8",
+      "Department10"
+    ],
+    "Prof27": [
+      "Department9",
+      "Department5",
+      "Department6"
+    ],
+    "Prof28": [
+      "Department5",
+      "Department6",
+      "Department9"
+    ],
+    "Prof29": [
+      "Department3",
+      "Department4",
+      "Department8"
+    ],
+    "Prof30": [
+      "Department4",
+      "Department7",
+      "Department6"
+    ]
+  },
+  "professor_preferred_courses": {
+    "Prof1": [
+      "Course47",
+      "Course95",
+      "Course3",
+      "Course88",
+      "Course74",
+      "Course75",
+      "Course98",
+      "Course56",
+      "Course8"
+    ],
+    "Prof2": [
+      "Course61",
+      "Course93",
+      "Course65",
+      "Course2",
+      "Course18",
+      "Course34"
+    ],
+    "Prof3": [
+      "Course94",
+      "Course72",
+      "Course44",
+      "Course97",
+      "Course26",
+      "Course85"
+    ],
+    "Prof4": [
+      "Course63",
+      "Course50",
+      "Course93",
+      "Course57",
+      "Course9"
+    ],
+    "Prof5": [
+      "Course49",
+      "Course6",
+      "Course75",
+      "Course67",
+      "Course97",
+      "Course61",
+      "Course82",
+      "Course69",
+      "Course53"
+    ],
+    "Prof6": [
+      "Course95",
+      "Course56",
+      "Course17",
+      "Course43",
+      "Course51"
+    ],
+    "Prof7": [
+      "Course23",
+      "Course95",
+      "Course34",
+      "Course84",
+      "Course45",
+      "Course22",
+      "Course77",
+      "Course100",
+      "Course51"
+    ],
+    "Prof8": [
+      "Course75",
+      "Course66",
+      "Course3",
+      "Course30",
+      "Course69",
+      "Course33"
+    ],
+    "Prof9": [
+      "Course90",
+      "Course65",
+      "Course36",
+      "Course23",
+      "Course13",
+      "Course8",
+      "Course12",
+      "Course91",
+      "Course61",
+      "Course75"
+    ],
+    "Prof10": [
+      "Course53",
+      "Course62",
+      "Course76",
+      "Course66",
+      "Course5",
+      "Course19",
+      "Course11"
+    ],
+    "Prof11": [
+      "Course7",
+      "Course18",
+      "Course70",
+      "Course52",
+      "Course9",
+      "Course61",
+      "Course54",
+      "Course99",
+      "Course86"
+    ],
+    "Prof12": [
+      "Course38",
+      "Course24",
+      "Course52",
+      "Course6",
+      "Course36"
+    ],
+    "Prof13": [
+      "Course56",
+      "Course53",
+      "Course61",
+      "Course25",
+      "Course2",
+      "Course40",
+      "Course9",
+      "Course49"
+    ],
+    "Prof14": [
+      "Course19",
+      "Course68",
+      "Course60",
+      "Course74",
+      "Course95",
+      "Course61"
+    ],
+    "Prof15": [
+      "Course86",
+      "Course68",
+      "Course56",
+      "Course93",
+      "Course48",
+      "Course97",
+      "Course50"
+    ],
+    "Prof16": [
+      "Course89",
+      "Course64",
+      "Course20",
+      "Course87",
+      "Course31",
+      "Course68",
+      "Course65",
+      "Course44",
+      "Course1"
+    ],
+    "Prof17": [
+      "Course77",
+      "Course76",
+      "Course73",
+      "Course74",
+      "Course1",
+      "Course52",
+      "Course51",
+      "Course36",
+      "Course63",
+      "Course40"
+    ],
+    "Prof18": [
+      "Course42",
+      "Course15",
+      "Course20",
+      "Course29",
+      "Course69",
+      "Course68",
+      "Course32"
+    ],
+    "Prof19": [
+      "Course65",
+      "Course53",
+      "Course14",
+      "Course1",
+      "Course34",
+      "Course25",
+      "Course28"
+    ],
+    "Prof20": [
+      "Course71",
+      "Course19",
+      "Course63",
+      "Course50",
+      "Course62",
+      "Course79",
+      "Course14",
+      "Course44"
+    ],
+    "Prof21": [
+      "Course26",
+      "Course33",
+      "Course15",
+      "Course91",
+      "Course38"
+    ],
+    "Prof22": [
+      "Course28",
+      "Course84",
+      "Course73",
+      "Course34",
+      "Course93",
+      "Course61",
+      "Course6",
+      "Course14",
+      "Course23"
+    ],
+    "Prof23": [
+      "Course40",
+      "Course97",
+      "Course28",
+      "Course42",
+      "Course4",
+      "Course27"
+    ],
+    "Prof24": [
+      "Course86",
+      "Course54",
+      "Course40",
+      "Course90",
+      "Course43",
+      "Course6",
+      "Course93",
+      "Course67"
+    ],
+    "Prof25": [
+      "Course45",
+      "Course55",
+      "Course26",
+      "Course11",
+      "Course92",
+      "Course50",
+      "Course42"
+    ],
+    "Prof26": [
+      "Course47",
+      "Course50",
+      "Course51",
+      "Course62",
+      "Course2",
+      "Course36"
+    ],
+    "Prof27": [
+      "Course41",
+      "Course9",
+      "Course34",
+      "Course3",
+      "Course73",
+      "Course92",
+      "Course29",
+      "Course1",
+      "Course66",
+      "Course89"
+    ],
+    "Prof28": [
+      "Course65",
+      "Course88",
+      "Course98",
+      "Course25",
+      "Course37",
+      "Course57"
+    ],
+    "Prof29": [
+      "Course69",
+      "Course97",
+      "Course79",
+      "Course12",
+      "Course82",
+      "Course14",
+      "Course10",
+      "Course64"
+    ],
+    "Prof30": [
+      "Course61",
+      "Course90",
+      "Course39",
+      "Course37",
+      "Course1",
+      "Course28",
+      "Course12",
+      "Course53"
+    ]
+  },
+  "professor_preferred_times": {
+    "Prof1": [
+      {
+        "day": "Tuesday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Tuesday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      }
+    ],
+    "Prof2": [
+      {
+        "day": "Tuesday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      },
+      {
+        "day": "Tuesday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      }
+    ],
+    "Prof3": [
+      {
+        "day": "Tuesday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Wednesday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      }
+    ],
+    "Prof4": [
+      {
+        "day": "Wednesday",
+        "start_time": "10:00",
+        "end_time": "13:00"
+      },
+      {
+        "day": "Tuesday",
+        "start_time": "10:00",
+        "end_time": "13:00"
+      },
+      {
+        "day": "Tuesday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      }
+    ],
+    "Prof5": [
+      {
+        "day": "Wednesday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Monday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      }
+    ],
+    "Prof6": [
+      {
+        "day": "Sunday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Thursday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Wednesday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      },
+      {
+        "day": "Sunday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      }
+    ],
+    "Prof7": [
+      {
+        "day": "Thursday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Sunday",
+        "start_time": "10:00",
+        "end_time": "13:00"
+      }
+    ],
+    "Prof8": [
+      {
+        "day": "Tuesday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Tuesday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      }
+    ],
+    "Prof9": [
+      {
+        "day": "Tuesday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      },
+      {
+        "day": "Wednesday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      }
+    ],
+    "Prof10": [
+      {
+        "day": "Thursday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Monday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      },
+      {
+        "day": "Sunday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      }
+    ],
+    "Prof11": [
+      {
+        "day": "Wednesday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      },
+      {
+        "day": "Tuesday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Monday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      }
+    ],
+    "Prof12": [
+      {
+        "day": "Monday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      },
+      {
+        "day": "Wednesday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      }
+    ],
+    "Prof13": [
+      {
+        "day": "Sunday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      },
+      {
+        "day": "Monday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Tuesday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      }
+    ],
+    "Prof14": [
+      {
+        "day": "Wednesday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Sunday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      },
+      {
+        "day": "Thursday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      }
+    ],
+    "Prof15": [
+      {
+        "day": "Sunday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Sunday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Tuesday",
+        "start_time": "10:00",
+        "end_time": "13:00"
+      },
+      {
+        "day": "Thursday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      }
+    ],
+    "Prof16": [
+      {
+        "day": "Wednesday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Wednesday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      }
+    ],
+    "Prof17": [
+      {
+        "day": "Thursday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Thursday",
+        "start_time": "10:00",
+        "end_time": "13:00"
+      },
+      {
+        "day": "Tuesday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      }
+    ],
+    "Prof18": [
+      {
+        "day": "Wednesday",
+        "start_time": "10:00",
+        "end_time": "13:00"
+      },
+      {
+        "day": "Wednesday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Sunday",
+        "start_time": "10:00",
+        "end_time": "13:00"
+      },
+      {
+        "day": "Wednesday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      }
+    ],
+    "Prof19": [
+      {
+        "day": "Monday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Sunday",
+        "start_time": "10:00",
+        "end_time": "13:00"
+      }
+    ],
+    "Prof20": [
+      {
+        "day": "Wednesday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      },
+      {
+        "day": "Tuesday",
+        "start_time": "10:00",
+        "end_time": "13:00"
+      },
+      {
+        "day": "Wednesday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      },
+      {
+        "day": "Thursday",
+        "start_time": "10:00",
+        "end_time": "13:00"
+      }
+    ],
+    "Prof21": [
+      {
+        "day": "Wednesday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Sunday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Thursday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      },
+      {
+        "day": "Tuesday",
+        "start_time": "10:00",
+        "end_time": "13:00"
+      }
+    ],
+    "Prof22": [
+      {
+        "day": "Wednesday",
+        "start_time": "10:00",
+        "end_time": "13:00"
+      },
+      {
+        "day": "Tuesday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      },
+      {
+        "day": "Sunday",
+        "start_time": "10:00",
+        "end_time": "13:00"
+      }
+    ],
+    "Prof23": [
+      {
+        "day": "Tuesday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Thursday",
+        "start_time": "10:00",
+        "end_time": "13:00"
+      },
+      {
+        "day": "Sunday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      }
+    ],
+    "Prof24": [
+      {
+        "day": "Sunday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      },
+      {
+        "day": "Tuesday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      }
+    ],
+    "Prof25": [
+      {
+        "day": "Monday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Sunday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Thursday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      }
+    ],
+    "Prof26": [
+      {
+        "day": "Wednesday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      },
+      {
+        "day": "Tuesday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      },
+      {
+        "day": "Sunday",
+        "start_time": "10:00",
+        "end_time": "13:00"
+      },
+      {
+        "day": "Wednesday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      }
+    ],
+    "Prof27": [
+      {
+        "day": "Thursday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      },
+      {
+        "day": "Sunday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      }
+    ],
+    "Prof28": [
+      {
+        "day": "Sunday",
+        "start_time": "10:00",
+        "end_time": "13:00"
+      },
+      {
+        "day": "Sunday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      },
+      {
+        "day": "Monday",
+        "start_time": "13:00",
+        "end_time": "16:00"
+      }
+    ],
+    "Prof29": [
+      {
+        "day": "Wednesday",
+        "start_time": "10:00",
+        "end_time": "13:00"
+      },
+      {
+        "day": "Thursday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      },
+      {
+        "day": "Tuesday",
+        "start_time": "10:00",
+        "end_time": "13:00"
+      }
+    ],
+    "Prof30": [
+      {
+        "day": "Thursday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      },
+      {
+        "day": "Wednesday",
+        "start_time": "08:00",
+        "end_time": "11:00"
+      }
+    ]
+  },
+  "course_preferred_times": {
+    "Course1": "middle",
+    "Course2": "early",
+    "Course3": "late",
+    "Course4": "early",
+    "Course5": "late",
+    "Course6": "early",
+    "Course7": "late",
+    "Course8": "early",
+    "Course9": "late",
+    "Course10": "early",
+    "Course11": "middle",
+    "Course12": "middle",
+    "Course13": "early",
+    "Course14": "early",
+    "Course15": "early",
+    "Course16": "early",
+    "Course17": "middle",
+    "Course18": "late",
+    "Course19": "early",
+    "Course20": "middle",
+    "Course21": "late",
+    "Course22": "late",
+    "Course23": "late",
+    "Course24": "late",
+    "Course25": "early",
+    "Course26": "late",
+    "Course27": "late",
+    "Course28": "middle",
+    "Course29": "late",
+    "Course30": "middle",
+    "Course31": "middle",
+    "Course32": "middle",
+    "Course33": "middle",
+    "Course34": "early",
+    "Course35": "early",
+    "Course36": "late",
+    "Course37": "middle",
+    "Course38": "late",
+    "Course39": "late",
+    "Course40": "late",
+    "Course41": "early",
+    "Course42": "middle",
+    "Course43": "late",
+    "Course44": "middle",
+    "Course45": "late",
+    "Course46": "middle",
+    "Course47": "early",
+    "Course48": "middle",
+    "Course49": "early",
+    "Course50": "early",
+    "Course51": "middle",
+    "Course52": "early",
+    "Course53": "early",
+    "Course54": "early",
+    "Course55": "early",
+    "Course56": "middle",
+    "Course57": "middle",
+    "Course58": "middle",
+    "Course59": "middle",
+    "Course60": "early",
+    "Course61": "middle",
+    "Course62": "middle",
+    "Course63": "late",
+    "Course64": "middle",
+    "Course65": "early",
+    "Course66": "late",
+    "Course67": "late",
+    "Course68": "late",
+    "Course69": "early",
+    "Course70": "middle",
+    "Course71": "early",
+    "Course72": "middle",
+    "Course73": "middle",
+    "Course74": "late",
+    "Course75": "early",
+    "Course76": "late",
+    "Course77": "early",
+    "Course78": "late",
+    "Course79": "late",
+    "Course80": "middle",
+    "Course81": "late",
+    "Course82": "late",
+    "Course83": "late",
+    "Course84": "early",
+    "Course85": "late",
+    "Course86": "early",
+    "Course87": "middle",
+    "Course88": "middle",
+    "Course89": "middle",
+    "Course90": "early",
+    "Course91": "middle",
+    "Course92": "middle",
+    "Course93": "early",
+    "Course94": "late",
+    "Course95": "late",
+    "Course96": "early",
+    "Course97": "late",
+    "Course98": "early",
+    "Course99": "middle",
+    "Course100": "early"
+  },
+  "restricted_times": [
+    {
+      "day": "Thursday",
+      "start_time": "11:00",
+      "end_time": "13:00"
+    },
+    {
+      "day": "Sunday",
+      "start_time": "11:00",
+      "end_time": "13:00"
+    },
+    {
+      "day": "Tuesday",
+      "start_time": "11:00",
+      "end_time": "13:00"
+    },
+    {
+      "day": "Monday",
+      "start_time": "11:00",
+      "end_time": "13:00"
+    },
+    {
+      "day": "Sunday",
+      "start_time": "13:00",
+      "end_time": "15:00"
+    },
+    {
+      "day": "Tuesday",
+      "start_time": "13:00",
+      "end_time": "15:00"
+    },
+    {
+      "day": "Monday",
+      "start_time": "13:00",
+      "end_time": "15:00"
+    },
+    {
+      "day": "Friday",
+      "start_time": "11:00",
+      "end_time": "13:00"
+    },
+    {
+      "day": "Tuesday",
+      "start_time": "12:00",
+      "end_time": "14:00"
+    },
+    {
+      "day": "Thursday",
+      "start_time": "12:00",
+      "end_time": "14:00"
+    }
+  ],
+  "days_with_hours": {
+    "Monday": {
+      "start": "08:00",
+      "end": "18:00"
+    },
+    "Tuesday": {
+      "start": "08:00",
+      "end": "18:00"
+    },
+    "Wednesday": {
+      "start": "08:00",
+      "end": "18:00"
+    },
+    "Thursday": {
+      "start": "08:00",
+      "end": "18:00"
+    },
+    "Sunday": {
+      "start": "08:00",
+      "end": "18:00"
+    },
+    "Friday": {
+      "start": "08:00",
+      "end": "18:00"
+    }
+  },
+  "course_lecture_durations": {
+    "Course1": 120,
+    "Course2": 60,
+    "Course3": 90,
+    "Course4": 90,
+    "Course5": 60,
+    "Course6": 120,
+    "Course7": 90,
+    "Course8": 120,
+    "Course9": 120,
+    "Course10": 120,
+    "Course11": 60,
+    "Course12": 120,
+    "Course13": 120,
+    "Course14": 90,
+    "Course15": 90,
+    "Course16": 60,
+    "Course17": 90,
+    "Course18": 60,
+    "Course19": 120,
+    "Course20": 90,
+    "Course21": 60,
+    "Course22": 60,
+    "Course23": 60,
+    "Course24": 60,
+    "Course25": 120,
+    "Course26": 60,
+    "Course27": 60,
+    "Course28": 90,
+    "Course29": 90,
+    "Course30": 90,
+    "Course31": 90,
+    "Course32": 120,
+    "Course33": 90,
+    "Course34": 90,
+    "Course35": 90,
+    "Course36": 90,
+    "Course37": 90,
+    "Course38": 60,
+    "Course39": 60,
+    "Course40": 60,
+    "Course41": 120,
+    "Course42": 60,
+    "Course43": 60,
+    "Course44": 120,
+    "Course45": 120,
+    "Course46": 90,
+    "Course47": 120,
+    "Course48": 90,
+    "Course49": 120,
+    "Course50": 90,
+    "Course51": 90,
+    "Course52": 120,
+    "Course53": 120,
+    "Course54": 120,
+    "Course55": 60,
+    "Course56": 120,
+    "Course57": 90,
+    "Course58": 120,
+    "Course59": 60,
+    "Course60": 90,
+    "Course61": 60,
+    "Course62": 90,
+    "Course63": 120,
+    "Course64": 120,
+    "Course65": 60,
+    "Course66": 120,
+    "Course67": 60,
+    "Course68": 120,
+    "Course69": 120,
+    "Course70": 90,
+    "Course71": 90,
+    "Course72": 60,
+    "Course73": 120,
+    "Course74": 120,
+    "Course75": 60,
+    "Course76": 60,
+    "Course77": 90,
+    "Course78": 120,
+    "Course79": 90,
+    "Course80": 90,
+    "Course81": 120,
+    "Course82": 120,
+    "Course83": 60,
+    "Course84": 120,
+    "Course85": 60,
+    "Course86": 120,
+    "Course87": 90,
+    "Course88": 90,
+    "Course89": 120,
+    "Course90": 60,
+    "Course91": 60,
+    "Course92": 120,
+    "Course93": 120,
+    "Course94": 90,
+    "Course95": 120,
+    "Course96": 120,
+    "Course97": 90,
+    "Course98": 90,
+    "Course99": 90,
+    "Course100": 60
+  },
+  "course_sections_count": {
+    "Course1": 2,
+    "Course2": 1,
+    "Course3": 3,
+    "Course4": 2,
+    "Course5": 1,
+    "Course6": 1,
+    "Course7": 3,
+    "Course8": 3,
+    "Course9": 3,
+    "Course10": 1,
+    "Course11": 3,
+    "Course12": 2,
+    "Course13": 3,
+    "Course14": 2,
+    "Course15": 1,
+    "Course16": 1,
+    "Course17": 2,
+    "Course18": 1,
+    "Course19": 2,
+    "Course20": 2,
+    "Course21": 2,
+    "Course22": 2,
+    "Course23": 2,
+    "Course24": 2,
+    "Course25": 3,
+    "Course26": 3,
+    "Course27": 2,
+    "Course28": 1,
+    "Course29": 3,
+    "Course30": 1,
+    "Course31": 2,
+    "Course32": 2,
+    "Course33": 2,
+    "Course34": 2,
+    "Course35": 2,
+    "Course36": 2,
+    "Course37": 1,
+    "Course38": 1,
+    "Course39": 3,
+    "Course40": 3,
+    "Course41": 1,
+    "Course42": 2,
+    "Course43": 1,
+    "Course44": 3,
+    "Course45": 2,
+    "Course46": 3,
+    "Course47": 3,
+    "Course48": 2,
+    "Course49": 3,
+    "Course50": 2,
+    "Course51": 3,
+    "Course52": 1,
+    "Course53": 2,
+    "Course54": 1,
+    "Course55": 2,
+    "Course56": 1,
+    "Course57": 1,
+    "Course58": 1,
+    "Course59": 2,
+    "Course60": 3,
+    "Course61": 2,
+    "Course62": 1,
+    "Course63": 2,
+    "Course64": 1,
+    "Course65": 3,
+    "Course66": 2,
+    "Course67": 3,
+    "Course68": 3,
+    "Course69": 1,
+    "Course70": 1,
+    "Course71": 3,
+    "Course72": 3,
+    "Course73": 2,
+    "Course74": 3,
+    "Course75": 2,
+    "Course76": 1,
+    "Course77": 1,
+    "Course78": 2,
+    "Course79": 3,
+    "Course80": 2,
+    "Course81": 2,
+    "Course82": 3,
+    "Course83": 3,
+    "Course84": 1,
+    "Course85": 1,
+    "Course86": 2,
+    "Course87": 2,
+    "Course88": 2,
+    "Course89": 2,
+    "Course90": 1,
+    "Course91": 1,
+    "Course92": 2,
+    "Course93": 2,
+    "Course94": 2,
+    "Course95": 3,
+    "Course96": 1,
+    "Course97": 3,
+    "Course98": 3,
+    "Course99": 1,
+    "Course100": 2
+  }
+}
